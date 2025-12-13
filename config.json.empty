@@ -1,0 +1,19 @@
+{
+
+    "riot_api":
+    {
+        "riot_api_key" : "", 
+        "riot_api_url" : "https://euw1.api.riotgames.com"
+    },
+
+    "players":
+    [
+        {
+            "game_name" : "player1",
+            "tag_line" : "tag1"
+        }
+    ],
+
+    "reports_directory_path": "path"
+
+}
