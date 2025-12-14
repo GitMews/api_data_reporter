@@ -33,6 +33,8 @@ To use the script locally, clone the repository using the `git clone` command, t
 ```bash
 python3 -m venv env
 source env/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 Once done, configure the application:
